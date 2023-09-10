@@ -1,0 +1,28 @@
+{
+  "flights": [
+    {
+      "departure": {
+        "name": "Istanbul Sabiha Gokcen Airport",
+        "city": "Istanbul",
+        "country": "Turkey",      
+        "date":"20/09/2023",
+        "hour": "16:00"
+      },
+      "arrival": {
+        "name": "Adirondack Regional Airport",
+        "city": "New York",
+        "country": "United States",
+        "date":"20/09/2023",
+        "hour": "19:00"
+      },
+      "code": "TK 269",
+      "class": "Economy",
+      "luggagecapacity": "15 Kg",
+      "brand": "THY",
+      "price": "259 €",
+      "flightType": "Directly",
+      "flighttime": "3Hour",
+      "brandIcon": "https://cdn.discordapp.com/attachments/838745466865975306/1150483508708516061/turkish-airlines-logo-25BACC2D0C-seeklogo.com.png"
+    }
+  ]
+}
